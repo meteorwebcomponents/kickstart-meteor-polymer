@@ -1,0 +1,38 @@
+<dom-module id="demo-element">
+  <template>
+    <style>
+      .display{
+        @apply(--layout-horizontal);
+        @apply(--layout-center-center);
+        @apply(--paper-font-display3);
+        margin:10px;
+        color:#777;
+      }
+      .main{
+        @apply(--layout-vertical);
+        @apply(--layout-center-center);
+      }
+    </style>
+    <div class="main fit">
+      <div>
+        Server : [[status]] , Route : [[mwcRoute.route]]
+      </div>
+      <div class="flex display">
+        Hello World! 
+      </div>
+    </div>
+  </template>
+  <script>
+    Polymer({
+      is: "demo-element",
+      properties:{
+        status:String
+      },
+      behaviors:[mwcMixin,mwcRouter],
+      getMeteorData:function(){
+        this.set("status",Meteor.status().status);
+      }
+    });
+  </script>
+</dom-module>
+
