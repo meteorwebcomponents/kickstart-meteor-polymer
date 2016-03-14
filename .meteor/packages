@@ -20,12 +20,11 @@ standard-minifiers      # JS/CSS minifiers run for production mode
 tracker                 # Meteor's client-side reactive programming library
 
 kadira:flow-router
-mwc:compiler
 mwc:extensions
-mwc:ecmascript
 mwc:mixin
 mwc:router
-
+mwc:compiler
 
 
 mwc-compiler
+mwc:ecmascript

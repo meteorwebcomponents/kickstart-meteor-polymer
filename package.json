@@ -1,0 +1,22 @@
+{
+  "name": "kickstartmwc_1_3",
+  "version": "1.0.0",
+  "description": "All your polymer components are inside .polymer directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meteorwebcomponents/kickstart-meteor-polymer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meteorwebcomponents/kickstart-meteor-polymer/issues"
+  },
+  "homepage": "https://github.com/meteorwebcomponents/kickstart-meteor-polymer#readme",
+  "dependencies": {
+  }
+}
