@@ -6,8 +6,6 @@
     "import": [
         "demo/demo.html",
         "bower_components/mwc-layout/mwc-layout.html",
-        "bower_components/mwc-mixin/mwc-mixin.html",
-        "bower_components/mwc-router/mwc-router.html",
         "bower_components/font-roboto/roboto.html",
         "bower_components/iron-elements/iron-elements.html",
         "bower_components/paper-elements/paper-elements.html",

@@ -49,8 +49,10 @@ mongo@1.1.5-rc.3
 mongo-id@1.0.2-rc.3
 mwc-compiler@1.0.5
 mwc:compiler@1.1.50
-mwc:ecmascript@1.0.13-rc.3 
+mwc:ecmascript@1.0.13-rc.3
 mwc:extensions@1.0.22
+mwc:mixin@1.0.10
+mwc:router@1.0.5
 npm-mongo@1.4.41-rc.3
 observe-sequence@1.0.9-rc.3
 ordered-dict@1.0.5-rc.3
