@@ -49,13 +49,17 @@ client/compiler.mwc.json
 
 ### MWC packages included.
 
-[MWC Compiler](https://github.com/meteorwebcomponents/compiler) - Compiler for polymer/webcomponents in meteor.
+[MWC Compiler](https://github.com/meteorwebcomponents/compiler) - Compiler for polymer/webcomponents in meteor. includes a local package `mwc-compiler`.
 
 [MWC Layout](https://github.com/meteorwebcomponents/layout) - polymer layout renderer
 
 [MWC Mixin](https://github.com/meteorwebcomponents/mixin) - Mixin for polymer/webcomponents in meteor.
 
 [MWC Router](https://github.com/meteorwebcomponents/router) - Two way bind FlowRouter to a polymer property.
+
+[MWC Extensions](https://github.com/meteorwebcomponents/extensions) - MWC Compiler Extensions.
+
+[MWC Ecmascript](https://github.com/meteorwebcomponents/ecmascript) - Transpile scripts inside polymer files.
 
 ### Other Packages
 
