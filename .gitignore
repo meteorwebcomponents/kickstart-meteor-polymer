@@ -1,1 +1,3 @@
 *.swp
+.polymer/mwc_compiler.html
+.public/mwc_compiler.html
