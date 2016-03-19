@@ -2,7 +2,9 @@
 
 All your polymer components are inside .polymer directory. 
 
+Since meteor started adding scripts to body instead of head imported components inside `mwc_compiler.html` wont be able to access `mwc:mixin` and `mwc:router` packages. We have to use bower. check `client/compiler.mwc.json`.
 
+### mwc:ecmascript is not working in this version.
 
 ### Default Configuration
 
