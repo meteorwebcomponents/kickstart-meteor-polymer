@@ -1,0 +1,15 @@
+{
+  "description": "mwc reactive router",
+  "keywords": [
+    "web-components"
+  ],
+  "main": [
+    "mwc-router.html"
+    ],
+    "name": "mwc-router",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/meteorwebcomponents/router.git"
+    },
+    "version": "1.0.5"
+}

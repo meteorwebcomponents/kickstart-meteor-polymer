@@ -1,0 +1,26 @@
+{
+  "description": "mwc data mixin",
+  "keywords": [
+    "web-components"
+  ],
+  "main": [
+    "mwc-mixin.html"
+  ],
+  "name": "mwc-mixin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meteorwebcomponents/mixin.git"
+  },
+  "version": "1.0.10",
+  "homepage": "https://github.com/meteorwebcomponents/mixin",
+  "_release": "1.0.10",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.0.10",
+    "commit": "5cf44b9b6e68e5645e0091c4a63169ac89d243ac"
+  },
+  "_source": "git://github.com/meteorwebcomponents/mixin.git",
+  "_target": "~1.0.10",
+  "_originalSource": "meteorwebcomponents/mixin",
+  "_direct": true
+}

@@ -1,11 +1,13 @@
 {
-    "dependencies": {
-        "iron-elements": "PolymerElements/iron-elements#^1.0.0",
-        "neon-elements": "PolymerElements/neon-elements#^1.0.0",
-        "paper-elements": "PolymerElements/paper-elements#^1.0.5",
-        "mwc-layout": "*",
-        "polymer": "Polymer/polymer#^1.0.0"
-    },
-    "name": "kickstart_mwc",
-    "version": "0.0.1"
+  "dependencies": {
+    "iron-elements": "PolymerElements/iron-elements#^1.0.0",
+    "neon-elements": "PolymerElements/neon-elements#^1.0.0",
+    "paper-elements": "PolymerElements/paper-elements#^1.0.5",
+    "mwc-layout": "*",
+    "polymer": "Polymer/polymer#^1.0.0",
+    "mwc-mixin": "meteorwebcomponents/mixin#^1.0.10",
+    "mwc-router": "meteorwebcomponents/router#^1.0.5"
+  },
+  "name": "kickstart_mwc",
+  "version": "0.0.1"
 }

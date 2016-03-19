@@ -1,0 +1,26 @@
+{
+  "description": "mwc reactive router",
+  "keywords": [
+    "web-components"
+  ],
+  "main": [
+    "mwc-router.html"
+  ],
+  "name": "mwc-router",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meteorwebcomponents/router.git"
+  },
+  "version": "1.0.5",
+  "homepage": "https://github.com/meteorwebcomponents/router",
+  "_release": "1.0.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.0.5",
+    "commit": "15bfd79a19500ee6ab9fef2b2c27af30cf786bea"
+  },
+  "_source": "git://github.com/meteorwebcomponents/router.git",
+  "_target": "~1.0.5",
+  "_originalSource": "meteorwebcomponents/router",
+  "_direct": true
+}

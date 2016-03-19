@@ -21,10 +21,9 @@ tracker                 # Meteor's client-side reactive programming library
 
 kadira:flow-router
 mwc:extensions
-mwc:mixin
-mwc:router
 mwc:compiler
 
 
 mwc-compiler
+
 mwc:ecmascript
