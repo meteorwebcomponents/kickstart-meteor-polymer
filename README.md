@@ -40,7 +40,7 @@ client/compiler.mwc.json
         "bower_components/polymer/polymer.html"
     ],
     "extensions": {
-        "mwc:ecmascript@1.0.11": {
+        "mwc:ecmascript@1.0.13": {
             "compileFunction": "MWCEcmascript"
         }
     }
