@@ -1,3 +1,6 @@
+> This project is depricated. Only for meteor < 1.3
+> #For meteor 1.3+ we have [Synthesis](https://github.com/meteorwebcomponents/synthesis)
+
 # Kickstart Meteor - Polymer
 
 All your polymer components are inside .polymer directory. 
